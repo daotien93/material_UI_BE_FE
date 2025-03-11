@@ -8,7 +8,6 @@ import { useTheme } from '@mui/material/styles';
 import { RouterLink } from 'src/routes/components';
 
 import { logoClasses } from './classes';
-
 // ----------------------------------------------------------------------
 
 export type LogoProps = BoxProps & {
